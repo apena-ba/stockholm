@@ -1,5 +1,5 @@
 # Stockholm
-Ransomware project from 42 School
+Ransomware project from 42 Cybersecurity-Bootcamp
 
 ## Description
 The goal of this project is coding a ransomware program in Python.
